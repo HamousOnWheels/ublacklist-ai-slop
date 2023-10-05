@@ -24,3 +24,7 @@ Exclude AI image generators from web and image search results
 5. Success! Your image results are now less polluted
 
 <img src="img/success.png" width="50%">
+
+## License
+
+[Creative Commons Zero v1.0 Universal](LICENSE)
