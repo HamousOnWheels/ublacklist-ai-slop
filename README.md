@@ -1,4 +1,4 @@
-# ublacklist-ai-slop
+# Block the Slop
 Exclude AI image generators from web and image search results
 
 ## Usage
