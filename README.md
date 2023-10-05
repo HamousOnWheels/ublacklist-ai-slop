@@ -12,12 +12,7 @@ Exclude AI image generators from web and image search results
 
 <img src="img/subscription-button.png" width="50%">
 
-3. In the dialog that appears, copy and paste as follows, and then click "Add"
-
-| Key  | Value                                                                                              |
-| ---- | :------------------------------------------------------------------------------------------------- |
-| Name | Filter that enables excluding the machine-translated sites of Stack Overflow                       |
-| URL  | https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt |
+3. In the dialog that appears, enter any name and paste the blacklist address: https://raw.githubusercontent.com/HamousOnWheels/ublacklist-ai-slop/main/uBlacklist.txt
 
 <img src="img/subscription-dialog.png" width="50%">
 
@@ -25,3 +20,7 @@ Exclude AI image generators from web and image search results
 
 <img src="img/search-engines-button.png" width="50%">
 <img src="img/search-engines-dialog.png" width="50%">
+
+5. Success! Your image results are now less polluted
+
+<img src="img/success.png" width="50%">
