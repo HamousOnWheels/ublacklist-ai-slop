@@ -26,3 +26,4 @@
 *://*.freepik.com/*
 *://*.wallpapers.ai/*
 *://*.bluewillow.ai/*
+*://*.tensor.art/*
