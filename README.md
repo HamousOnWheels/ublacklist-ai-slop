@@ -12,7 +12,7 @@ Exclude AI image generators from web and image search results
 
 <img src="img/subscription-button.png" width="50%">
 
-3. In the dialog that appears, enter any name and paste the blacklist address: https://raw.githubusercontent.com/HamousOnWheels/ublacklist-ai-slop/main/uBlacklist.txt
+3. In the dialog that appears, enter any name and paste the blacklist address: https://codeberg.org/ooiinty/ublacklist-ai-slop/raw/branch/main/uBlacklist.txt
 
 <img src="img/subscription-dialog.png" width="50%">
 
